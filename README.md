@@ -1,4 +1,4 @@
 # test_Gits
-untuk memenuhi sleksi magang 
+Jawaban/output untuk soal pertama : 
 
-![Contoh Gambar](ss_output_soal_1_gits.jpg)
+![Jawaban soal pertama](ss_output_soal_1_gits.jpg)
