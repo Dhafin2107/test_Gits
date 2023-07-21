@@ -1,6 +1,6 @@
 package com.example.demo;
 //nama : Dhafin Taufiqi
-//Univ : Universitas Pendidikan Indonesia
+//Univ : Universitas Pendidikan Indonesia 
 
 public class RumusA00012 {
     public static void main(String[] args) {
