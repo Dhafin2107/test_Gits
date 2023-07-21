@@ -2,7 +2,7 @@ package com.example.demo;
 import java.util.*;
 
 //name : Dhafin Taufiqi
-//Univ : Universitas Pendidikan Indonesia
+//Univ : Universitas Pendidikan Indonesia 
 
 public class DenseRanking {
     public static void main(String[] args) {
